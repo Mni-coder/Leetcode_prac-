@@ -1,8 +1,8 @@
 Binary Trees
 
-| Serialize and Deserialize Binary Tree | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ |      |
-| ------------------------------------- | ------------------------------------------------------------ | ---- |
-|                                       |                                                              |      |
-|                                       |                                                              |      |
-|                                       |                                                              |      |
+1. [Serialize and Deserialize Binary Tree](https://github.com/Mni-coder/Leetcode_practice/blob/main/Serialize_binary_tree.md)
+
+
+Query and Stack
+
 
